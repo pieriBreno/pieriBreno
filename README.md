@@ -1,4 +1,8 @@
-🚀 Atualmente, estou mergulhado em projetos que envolvem HTML, CSS e JavaScript, buscando sempre aprender e evoluir. 
+🚀 Atualmente, estou mergulhado em projetos que envolvem: 
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html logo" /> 
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css logo" />
+
+E estou iniciando o aprendizado fullstack em JavaScript, buscando sempre aprender e evoluir. 
 o código é como um diário, refletindo minha jornada de aprendizado e as soluções que encontro pelo caminho.
 
 💻 No meu arsenal de ferramentas, você encontrará diversos projetos, atualmente estou estudando JavaScript fullstack. 
